@@ -2,3 +2,8 @@
     padding: 0;
     background-color: red;
 }
+
+.title {
+    background-color: black;
+    color: white;
+}
