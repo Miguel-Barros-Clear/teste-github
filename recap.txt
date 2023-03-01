@@ -1,0 +1,11 @@
+[x] - Configurar ssh/token 
+[x] - Config local do git  - git config  
+[x] - Importancia de boas mensagens nos commits 
+[x] - Criar , Pull , Push e Criar Branchs  
+[x] - Navegando entre branchs
+[x] - Fluxo commum -> Atualizar sempre , Faz suas mudanças e commits , criar PR 
+[x] - Resolvendo conflitos -> Rebase
+[x] - Puxando branchs apagadas e remotas
+[x] - Deletar branchs [remoto e local]
+[x] - Apagando commits
+[x] - Git reflog
